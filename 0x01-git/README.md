@@ -1,1 +1,1 @@
-My first week as a software engineer was awesome
+My first adventure tasks in git has just started and it's very awesome
